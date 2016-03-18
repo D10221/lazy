@@ -1,0 +1,1 @@
+<p>c# lazy<t> golang's impostor: lazy<T> where T : anything </p> 
